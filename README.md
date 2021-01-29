@@ -4,4 +4,4 @@ Este repositório tem o intuito de armazenar exemplos de códigos que eu impleme
 
 ### API's REST e RESTFul
 
-CRUD para base de dados MySQL utilizando PHP <br> 
+[CRUD](https://github.com/lucasminatelli/exemplos/blob/main/PHP/dbConnection.php) para base de dados MySQL utilizando PHP <br> 
